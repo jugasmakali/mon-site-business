@@ -1,0 +1,71 @@
+/* STYLE GENERAL */
+body {
+    background-color: #f4f6f8;
+    font-family: Arial, sans-serif;
+    padding: 40px;
+}
+{
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #f4f6f8;
+    color: #333;
+}
+
+/* CONTENEUR */
+.container {
+    max-width: 1100px;
+    margin: auto;
+    padding: 60px 20px;
+}
+
+/* SECTION A PROPOS */
+.about {
+    background-color: #0b3c5d;
+    color: #ffffff;
+}
+
+.about h1 {
+    text-align: center;
+    margin-bottom: 25px;
+}
+
+.about p {
+    text-align: center;
+    line-height: 1.8;
+    max-width: 900px;
+    margin: 0 auto 15px auto;
+}
+
+/* SECTION SERVICES */
+.services {
+    background-color: #f4f6f8;
+}
+
+.services h1 {
+    text-align: center;
+    color: #0b3c5d;
+    margin-bottom: 40px;
+}
+
+/* BOITE DE SERVICE */
+.service-box {
+    background-color: #ffffff;
+    padding: 25px;
+    margin-bottom: 25px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.08);
+}
+
+.service-box h2 {
+    color: #1a73e8;
+    margin-bottom: 15px;
+}
+
+.service-box ul {
+    padding-left: 20px;
+}
+
+.service-box ul li {
+    margin-bottom: 8px;
+    line-height: 1.6;
+}
